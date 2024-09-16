@@ -5,9 +5,11 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{84AD7A26-1C56-46F1-86E0-9BA36FF8AF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastMessage", "ToastMessage\ToastMessage.csproj", "{CCD49AFC-4EE5-4A44-AED1-1B03EE3B408B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToastMessage", "ToastMessage\ToastMessage.csproj", "{CCD49AFC-4EE5-4A44-AED1-1B03EE3B408B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calender", "Calender\Calender.csproj", "{805C79DE-E3DB-425D-8C94-B6421B2AF5CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calender", "Calender\Calender.csproj", "{805C79DE-E3DB-425D-8C94-B6421B2AF5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpForm", "SignUpForm\SignUpForm.csproj", "{9D989397-BB49-4159-9C83-346E84321DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{805C79DE-E3DB-425D-8C94-B6421B2AF5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{805C79DE-E3DB-425D-8C94-B6421B2AF5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{805C79DE-E3DB-425D-8C94-B6421B2AF5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D989397-BB49-4159-9C83-346E84321DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D989397-BB49-4159-9C83-346E84321DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D989397-BB49-4159-9C83-346E84321DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D989397-BB49-4159-9C83-346E84321DEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
